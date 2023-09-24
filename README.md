@@ -1,0 +1,1 @@
+** A Rocket API to determine whether a given number is prime
